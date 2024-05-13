@@ -18,4 +18,6 @@ int main(){
     //bukunya.setJudul("Matematika");
     // cout << bukunya.getJudul();
     cout << bukunya.setJudul("Matematika").getjudul();
+    
+    return 0;
 }
