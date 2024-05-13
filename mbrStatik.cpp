@@ -11,4 +11,10 @@ class mahasiswa {
         mahasiswa(string pnama):nama(pnama){
             setID();
         }
+        
 };
+
+int mahasiswa::nim = 20;
+void mahasiswa ::setID(){
+    
+}
