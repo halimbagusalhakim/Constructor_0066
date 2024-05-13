@@ -25,7 +25,7 @@ class Mahasiswa{
 };
 
 Mahasiswa::Mahasiswa(string iNama){
-    
+    nim = 0;
     nama =iNama;
 }
 Mahasiswa::Mahasiswa(int iNim, string iNama){
