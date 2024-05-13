@@ -6,4 +6,9 @@ class mahasiswa {
         static int nim;
         int id;
         string nama;
+
+        void setID();
+        mahasiswa(string pnama):nama(pnama){
+            setID();
+        }
 };
